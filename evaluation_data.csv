@@ -1,0 +1,44 @@
+conversation_id,utterance_id,speaker,text,saliency
+7.42556E+11,0,agent,"May I know your name, please?",
+7.42556E+11,1,customer,"Uh yes, my name is {full_name:***** ****}.",
+7.42556E+11,2,agent,", {first_name:*****}. How's your day going, {first_name:*****}",
+7.42556E+11,3,customer,It's going good. Thank you for asking.,
+7.42556E+11,4,agent,That's great. So how can I help you?,
+7.42556E+11,5,agent,mhm.,
+7.42556E+11,6,customer,"Uh yes, sir. I'm a new Raven member and I was a veteran. So I got Superman, but for the 1st three months, they gave me like Superman and some other channels for free.",Reason for Contact
+7.42556E+11,7,agent,mhm.,
+7.42556E+11,8,agent,"Yes, sir.",
+7.42556E+11,9,customer,"That has to be canceled by the 23rd. It had a reminder on my my television uh so I wanted to make sure. Yeah, I wanted to go ahead and cancel that today promo all the free promo channels are. However, you say that.",Reason for Contact
+7.42556E+11,10,customer,Okay.,
+7.42556E+11,11,agent,"Okay, let okay, let me just assist you with that. Um.",
+7.42556E+11,12,agent,So are you referring for the Spiderman Pack.,Resolution Process
+7.42556E+11,13,agent,", Superman, Spiderman and Raven Movie Pack.",Resolution Process
+7.42556E+11,14,customer,I get I'm gonna get Superman anyway because I'm a veteran.,Resolution Process
+7.42556E+11,15,customer,That will be free.,Resolution Process
+7.42556E+11,16,agent,Okay.,
+7.42556E+11,17,customer,But all the rest I need to cancel.,Resolution Process
+7.42556E+11,18,agent,"Okay, so I'll I'll just um cancel.",Resolution Process
+7.42556E+11,19,agent,The three remaining and keep the Superman,Resolution Process
+7.42556E+11,20,customer,"Right, the Superman cause I have that Spiderman Package or whatever to the great deal. By the way, thank you.",Resolution Process
+7.42556E+11,21,customer,And.,
+7.42556E+11,22,agent,"Yeah, so I am just.",
+7.42556E+11,23,customer,"Yep, and they.",
+7.42556E+11,24,agent,"I'm just gonna keep the Spiderman, mhm.",Resolution Process
+7.42556E+11,25,customer,"Right to cancel all the right, you can cancel the other, and they still have my Spiderman being free, correct?",Resolution Process
+7.42556E+11,26,agent,"Yes, sir.",Resolution Process
+7.42556E+11,27,agent,Okay.,
+7.42556E+11,28,customer,"Oh, that's awesome, man. I appreciate it, and do do you have my email?",Resolution Process
+7.42556E+11,29,agent,"Okay, hold on sir. Let me just process this one. 1st.",Resolution Process
+7.42556E+11,30,customer,Okay.,
+7.42556E+11,31,agent,So I can I can see.,
+7.42556E+11,32,agent,"Um that, okay? Hold on.",
+7.42556E+11,33,agent,me just process it real quick.,Resolution Process
+7.42556E+11,34,agent,And do you asking me if do you have the email.,Resolution Process
+7.42556E+11,35,agent,mhm.,
+7.42556E+11,36,customer,"Right, and the the reason I'm asking is uh Thor and I know you guys have been good. Thor kinda burned me on all this stuff, and I just wanted like a notice that said I canceled.",Resolution Process
+7.42556E+11,37,agent,"mhm okay, sir. Hold on.",
+7.42556E+11,38,agent,"Yes, sir. As I can see here you have your email address here.",Resolution Process
+7.42556E+11,39,agent,So.,
+7.42556E+11,40,agent,Hold on.,
+7.42556E+11,41,agent,"Okay, so I already accessed it, sir. Anything else I can help you?",Result
+7.42556E+11,42,customer,Nope. Thank you very much. You've been wonderful. Have a great day.,Result
